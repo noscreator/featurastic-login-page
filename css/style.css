@@ -26,7 +26,7 @@ svg {
   position: relative;
   align-self: center;
   padding: 0.1rem;
-  width: 80%;
+  width: 26rem;
   height: auto;
   background: hsl(180deg 88.18% 56.86%);
   clip-path: polygon(25px 0%, 100% 0, 100% calc(100% - 25px), calc(100% - 25px) 100%, 0 100%, 0% 25px);
@@ -36,7 +36,7 @@ svg {
 .login-panel {
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: 24rem;
   height: auto;
   background: black;
   padding: 1rem;
@@ -219,7 +219,7 @@ h2 {
   /* Your styles for tablets and laptops go here */
 
   .login-container {
-    width: 40%; /* Adjust font size for better readability on larger screens */
+     /* Adjust font size for better readability on larger screens */
   }
 
   /* Add more styles as needed */
