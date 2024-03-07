@@ -51,35 +51,34 @@ svg {
   position: absolute;
   width: 0;
   height: 0;
-  border: 2.5rem solid #FF0578;
 }
 
 .triangle-top-left {
   top: 0px;
   left: 0px;
-  border-top: none;
-  border-right: none;
+  border-top: 2.5rem solid #FF0578;
+  border-right: 2.5rem solid transparent;
 }
 
 .triangle-bottom-right {
   bottom: 0px;
   right: 0px;
-  border-bottom: none;
-  border-left: none;
+  border-bottom: 2.5rem solid #FF0578;
+  border-left: 2.5rem solid #FF0578;
 }
 
 .triangle-bottom-left {
   bottom: 0px;
   left: 0px;
-  border-bottom: none;
-  border-right: none;
+  border-bottom: 2.5rem solid #FF0578;
+  border-right: 2.5rem solid #FF0578;
 }
 
 .triangle-top-right {
   top: 0px;
   right: 0px;
-  border-top: none;
-  border-left: none;
+  border-top: 2.5rem solid #FF0578;
+  border-left: 2.5rem solid #FF0578;
 }
 
 /* Header Styles */
