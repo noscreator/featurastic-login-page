@@ -10,7 +10,8 @@ Welcome to the Featuristic Login Page project! This modern and stylish login pag
 
 ## Preview
 
-screenshots or GIFs showcasing the login page
+[Live Preview](https://noscreator.github.io/featurastic-login-page/)
+![IMG_20240307_145209](https://github.com/noscreator/featurastic-login-page/assets/152608930/e36fa431-2a50-4725-8019-4ae6b0345563)
 
 ## Usage
 
