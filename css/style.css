@@ -64,21 +64,21 @@ svg {
   bottom: 0px;
   right: 0px;
   border-bottom: 2.5rem solid #FF0578;
-  border-left: 2.5rem solid #FF0578;
+  border-left: 2.5rem solid transparent;
 }
 
 .triangle-bottom-left {
   bottom: 0px;
   left: 0px;
   border-bottom: 2.5rem solid #FF0578;
-  border-right: 2.5rem solid #FF0578;
+  border-right: 2.5rem solid transparent;
 }
 
 .triangle-top-right {
   top: 0px;
   right: 0px;
   border-top: 2.5rem solid #FF0578;
-  border-left: 2.5rem solid #FF0578;
+  border-left: 2.5rem solid transparent;
 }
 
 /* Header Styles */
