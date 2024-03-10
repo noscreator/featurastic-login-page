@@ -16,8 +16,8 @@ Welcome to the Featuristic Login Page project! This modern and stylish login pag
 
 ## Preview
 [Live Preview](https://noscreator.github.io/featurastic-login-page/)
-
-[![Video Demo](https://img.youtube.com/vi/rMnDe0iEGRs/0.jpg)](https://www.youtube.com/watch?v=rMnDe0iEGRs)
+[![Blue Futuristic Technology Presentation_20240310_103546_0000](https://github.com/noscreator/featurastic-login-page/assets/152608930/4543551e-137d-4090-ab4a-51e8f7801237)
+](https://youtu.be/rMnDe0iEGRs?si=8w729cX0Lj9Ln0If)
 
 ## Installation
 
