@@ -5,6 +5,11 @@
 ![GitHub License](https://img.shields.io/github/license/noscreator/featurastic-login-page.svg?style=flat-square&color=cyan)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/noscreator/featurastic-login-page.svg?style=flat-square&color=cyan)
 
+##
+
+[![Blue Futuristic Technology Presentation_20240310_103546_0000](https://github.com/noscreator/featurastic-login-page/assets/152608930/4543551e-137d-4090-ab4a-51e8f7801237)
+](https://youtu.be/rMnDe0iEGRs?si=8w729cX0Lj9Ln0If)
+
 Welcome to the Featuristic Login Page project! This modern and stylish login page is designed with user experience and aesthetics in mind.
 
 ## Features
@@ -16,8 +21,7 @@ Welcome to the Featuristic Login Page project! This modern and stylish login pag
 
 ## Preview
 [Live Preview](https://noscreator.github.io/featurastic-login-page/)
-[![Blue Futuristic Technology Presentation_20240310_103546_0000](https://github.com/noscreator/featurastic-login-page/assets/152608930/4543551e-137d-4090-ab4a-51e8f7801237)
-](https://youtu.be/rMnDe0iEGRs?si=8w729cX0Lj9Ln0If)
+
 
 ## Installation
 
