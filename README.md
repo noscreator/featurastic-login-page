@@ -1,4 +1,11 @@
 # Featuristic Login Page
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/noscreator/featurastic-login-page.svg)](https://github.com/nexoscreator/featurastic-login-page/issues)
+[![GitHub stars](https://img.shields.io/github/stars/noscreator/featurastic-login-page.svg)](https://github.com/nexoscreator/featurastic-login-page/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/noscreator/featurastic-login-page.svg)](https://github.com/nexoscreator/featurastic-login-page/network)
+![GitHub contributors](https://img.shields.io/github/contributors/noscreator/featurastic-login-page.svg)
+
 Welcome to the Featuristic Login Page project! This modern and stylish login page is designed with user experience and aesthetics in mind.
 
 ## Features
@@ -11,22 +18,21 @@ Welcome to the Featuristic Login Page project! This modern and stylish login pag
 ## Preview
 
 [Live Preview](https://noscreator.github.io/featurastic-login-page/)
-![IMG_20240307_145209](https://github.com/noscreator/featurastic-login-page/assets/152608930/e36fa431-2a50-4725-8019-4ae6b0345563)
+![Blue Futuristic Technology Presentation_20240310_103546_0000](https://github.com/noscreator/featurastic-login-page/assets/152608930/b0d5b163-183a-43f0-bf8b-ba176ffcab6b)
 
-## Usage
+
+## Installation
+
+Provide step-by-step instructions on how to install and set up your project.
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/noscreator/featuristic-login-page.git
    ```
-
 2. Open `index.html` in your preferred web browser.
-
 3. Explore the login page and enjoy the featuristic experience!
 
-## File Structure
-
+## File structure
 ```plaintext
 featuristic-login-page/
 ├── index.html
@@ -45,9 +51,13 @@ featuristic-login-page/
 └── README.md
 ```
 
+## Usage
+
+> Used for Authication.
+
 ## Contributing
 
-If you'd like to contribute to this project, please follow these steps:
+If you'd like to contribute to this project, please follow these ste
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/improvement`).
@@ -57,4 +67,4 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
