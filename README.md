@@ -16,10 +16,9 @@ Welcome to the Featuristic Login Page project! This modern and stylish login pag
 - **Secure Login:** Ensures a secure login experience with customizable form fields.
 
 ## Preview
-
 [Live Preview](https://noscreator.github.io/featurastic-login-page/)
-![Blue Futuristic Technology Presentation_20240310_103546_0000](https://github.com/noscreator/featurastic-login-page/assets/152608930/b0d5b163-183a-43f0-bf8b-ba176ffcab6b)
 
+[![Video Demo](https://img.youtube.com/vi/rMnDe0iEGRs/0.jpg)](https://www.youtube.com/watch?v=rMnDe0iEGRs)
 
 ## Installation
 
