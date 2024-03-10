@@ -3,7 +3,6 @@
 
 /* Global Styles */
 body {
-  font-family: 'Roboto Mono', monospace;
   margin: 0;
   display: flex;
   color: hsla(180, 29%, 72%, 0.75);
@@ -18,7 +17,16 @@ svg {
   height: 24px;
 }
 
-/* Login Container Styles */
+.title {
+  font-family: 'Orbitron', Roboto Momo;
+  letter-spacing: 0.5rem;
+}
+
+.link{
+  color: white;
+}
+
+/* register Container Styles */
 .container {
   display: block;
   position: relative;
@@ -30,8 +38,8 @@ svg {
   clip-path: polygon(25px 0%, 100% 0, 100% calc(100% - 25px), calc(100% - 25px) 100%, 0 100%, 0% 25px);
 }
 
-/* Login Panel Styles */
-.login-panel {
+/* Panel Styles */
+.container-panel {
   display: flex;
   position: relative;
   justify-content: center;
@@ -43,6 +51,7 @@ svg {
 }
 
 /* Button Styles */
+.compont-group,
 .button-group {
   display: flex;
   flex-direction: row;
@@ -75,8 +84,8 @@ svg {
   clip-path: polygon(0px 0%, 100% 0, 100% calc(100% - 20px), calc(100% - 20px) 100%, 0 100%, 0% 20px);
 }
 
-/* Login Form Styles */
-.login-form {
+/* Form Styles */
+form {
   display: flex;
   flex-direction: column;
   color: #FFFFFF;
@@ -138,32 +147,34 @@ svg {
   margin: 0.5rem 0;
 }
 
-.or:after {
-  content: " ";
-  display: block;
-  position: absolute;
-  top: 0.5rem;
-  right: 0;
-  height: 0;
-  width: 45%;
-  border: 1px solid cyan;
-}
-
+.or:after,
 .or:before {
   content: " ";
   display: block;
   position: absolute;
   top: 0.5rem;
-  left: 0;
   height: 0;
-  width: 45%;
   border: 1px solid cyan;
+}
+
+.or:after {
+  right: 0;
+  width: 45%;
+}
+
+.or:before {
+  left: 0;
+  width: 45%;
 }
 
 /* Hover Styles for Buttons */
 button:hover,
-svg:hover {
+svg:hover{
   background: hsl(180deg 88.18% 56.86%);
+}
+
+.link:hover{
+  color: pink;
 }
 
 
