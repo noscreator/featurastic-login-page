@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/noscreator/featurastic-login-page.svg)](https://github.com/nexoscreator/featurastic-login-page/issues)
+![GitHub Release](https://img.shields.io/github/v/release/noscreator/Featurastic-login-page)
 [![GitHub stars](https://img.shields.io/github/stars/noscreator/featurastic-login-page.svg)](https://github.com/nexoscreator/featurastic-login-page/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/noscreator/featurastic-login-page.svg)](https://github.com/nexoscreator/featurastic-login-page/network)
 ![GitHub contributors](https://img.shields.io/github/contributors/noscreator/featurastic-login-page.svg)
