@@ -1,11 +1,9 @@
 # Featuristic Login Page
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/noscreator/featurastic-login-page.svg)](https://github.com/nexoscreator/featurastic-login-page/issues)
-![GitHub Release](https://img.shields.io/github/v/release/noscreator/Featurastic-login-page)
-[![GitHub stars](https://img.shields.io/github/stars/noscreator/featurastic-login-page.svg)](https://github.com/nexoscreator/featurastic-login-page/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/noscreator/featurastic-login-page.svg)](https://github.com/nexoscreator/featurastic-login-page/network)
-![GitHub contributors](https://img.shields.io/github/contributors/noscreator/featurastic-login-page.svg)
+![GitHub Pages](https://img.shields.io/github/deployments/noscreator/featurastic-login-page/github-pages.svg?style=flat-square&color=cyan)
+![GitHub Latest Release](https://img.shields.io/github/v/release/noscreator/featurastic-login-page.svg?style=flat-square&color=cyan)
+![GitHub License](https://img.shields.io/github/license/noscreator/featurastic-login-page.svg?style=flat-square&color=cyan)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/noscreator/featurastic-login-page.svg?style=flat-square&color=cyan)
 
 Welcome to the Featuristic Login Page project! This modern and stylish login page is designed with user experience and aesthetics in mind.
 
